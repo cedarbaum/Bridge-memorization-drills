@@ -1,0 +1,2305 @@
+# -*- mode: Org; eval: (emojify-mode 0) -*- #
+
+#+title: Bridge drills
+#+filetags: :bridge:memorization:cards:
+
+* Core SAYC drills from "ACBL SAYC SYSTEM BOOKLET"
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562336
+   :END:
+*** Front
+    1NT opening
+
+*** Back
+    Balanced, 15-17 HCP
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562404
+   :END:
+*** Front
+    2NT opening
+
+*** Back
+    Balanced, 20-21 HCP
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562555
+   :END:
+*** Front
+    3NT opening
+
+*** Back
+    Balanced, 25-27
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562605
+   :END:
+*** Front
+    Jacoby transfer responses (1NT opening)
+
+*** Back
+    #+begin_example
+        - 2♣ = non-forcing Stayman, 4 or 5 card major suit
+        - 2♦ = 5♥
+        - 2♥ = 5♠
+        - 2♠ = opener must rebid 3♣. Pass after = club bust, 3♦ after = diamond bust.
+    #+end_example
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♦ - 2♥
+    #+end_example
+
+*** Back
+    Normal acceptance of transfer.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562676
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♥ - 2♠ - PASS
+    #+end_example
+
+*** Back
+    Content to play 2♠
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562755
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♥ - 2♠ - 2NT, 3♠
+    #+end_example
+
+*** Back
+    Invitational, Over 2NT opener may pass or bid 3♠ with a minimum hand; bid 3NT or 4♠ with a maximum.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562830
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♥ - 2♠ - 3♣, 3♦, 3♥
+    #+end_example
+
+*** Back
+    Natural and game forcing.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340562979
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♥ - 2♠ - 3NT
+    #+end_example
+
+*** Back
+    Giving opener a choice between 3NT and 4♠.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563057
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♥ - 2♠ - 4♠
+    #+end_example
+
+*** Back
+    Placing the contract, with a six-card or longer suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563130
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♠ - 3♣ - PASS
+    #+end_example
+
+*** Back
+    Club bust.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563204
+   :END:
+*** Front
+    #+begin_example
+        1NT - 2♠ - 3♣ - 3♦
+    #+end_example
+
+*** Back
+    Diamond bust (notrump opener passes).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563282
+   :END:
+*** Front
+    #+begin_example
+        1NT - 3♣, 3♦
+    #+end_example
+
+*** Back
+    A six-card or longer suit and invitational to 3NT.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563406
+   :END:
+*** Front
+    #+begin_example
+        1NT - 3♥, 3♠
+    #+end_example
+
+*** Back
+    At least a six-card suit and slam interest (otherwise, responder uses a transfer bid).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563506
+   :END:
+*** Front
+    #+begin_example
+        1NT - 4♣
+    #+end_example
+
+*** Back
+    Gerber, asking for aces. 4♣ IS GERBER OVER ANY 1NT OR 2NT BY PARTNER, INCLUDING A REBID OF 1NT OR 2NT. Responses show the number of aces, by steps, just as over a Blackwood 4NT. 5♣ is used to ask for kings.
+
+    | Ace asking        | King Asking        |
+    |-------------------+--------------------|
+    | 1NT - 4♣          | 1NT - 4♣           |
+    | 4♦  = 0 or 4 aces | 4x  - 5♣           |
+    | 4♥  = 1 ace       | 5♦  = 0 or 4 kings |
+    | 4♠  = 2 aces      | 5♥  = 1 king       |
+    | 4NT = 3 aces      | 5♠  = 2 kings      |
+    |                   | 5NT = 3 kings      |
+
+    If the player using Gerber makes any bid other than 5♣, that is to play (including 4NT). Asking for kings guarantees that the partnership holds all the aces.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563579
+   :END:
+*** Front
+    #+begin_example
+        1NT - 4NT
+    #+end_example
+
+*** Back
+    Natural and invites 6NT. 4NT is slam invitational only because 4♣ is available as Gerber (to ask about aces).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340563634
+   :END:
+*** Text
+    #+begin_example
+    1NT - X -
+    #+end_example
+
+    Conventional responses are {{c1::on}}.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340563704
+   :END:
+*** Text
+    #+begin_example
+        1NT - opponent overbids
+    #+end_example
+
+    Conventional responses are {{c1::off}}. Bids are natural except for a {{c1::cuebid}}, which may be used with game forcing strength as a substitute for {{c1::Stayman}}.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563781
+   :END:
+*** Front
+    Jacoby transfer responses (2NT opening)
+
+*** Back
+    #+begin_example
+        - 3♣  = Stayman, 4 or 5 card major
+        - 3♦  = 5♥
+        - 3♥  = 5♠
+        - 4♣  = Gerber (ace asking).
+        - 4NT = Invites a slam in notrump.
+    #+end_example
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340563931
+   :END:
+*** Front
+    Jacoby transfer responses (3NT opening)
+
+*** Back
+    #+begin_example
+        - 4♣  = Stayman, 4 or 5 card major.
+        - 4♦  = 5♥
+        - 4♥  = 5♠
+    #+end_example
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564008
+   :END:
+*** Front
+    #+begin_example
+        1♥, 1♠ opening
+    #+end_example
+
+*** Back
+    5+, 13-22 pts.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564080
+   :END:
+*** Front
+    #+begin_example
+        1♣, 1♦ opening
+    #+end_example
+
+*** Back
+    3+, 13-22 pts.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564156
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 1♠
+    #+end_example
+
+*** Back
+    At least four spades, 6 or more points. Tends to deny a heart fit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564230
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 1NT
+    #+end_example
+
+*** Back
+    6–9 points, denies four spades or three hearts. NOT forcing.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564354
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2♣, 2♦
+    #+end_example
+
+*** Back
+    10 points or more, promises at least four of the suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564404
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2♥
+    #+end_example
+
+*** Back
+    Three-card or longer heart support; 6–10 dummy points.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564483
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2NT
+    #+end_example
+
+*** Back
+    Game-forcing raise (Jacoby 2NT), 13+ dummy points, 4+ card trump support. Asks opener to show a short suit to help responder evaluate slam prospects.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564555
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2♠, 3♣, 3♦
+    #+end_example
+
+*** Back
+    Strong jump shifts. Invites a slam. Shows 17-19 points and a single-suited hand. Responder should have a 5+ card suit that contains at least 5 HCP. This is forcing to game.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564658
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 3♥
+    #+end_example
+
+*** Back
+    Limit raise (10–11 dummy points with three or more hearts).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564704
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 3NT
+    #+end_example
+
+*** Back
+    15–17 HCP, balanced hand with two-card support for partner.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340564857
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 4♥
+    #+end_example
+
+*** Back
+    Usually five+ hearts, a singleton or void, and fewer than 10 HCP. Opener’s rebids are natural and standard.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340564930
+   :END:
+*** Text
+    *RESPONSES AND LATER BIDDING AFTER A 1♥ OR A 1♠ OPENING*
+
+    Rebids with a minimum hand ({{c1::13–15}} points):
+    - Rebidding notrump at the lowest available level;
+    - Raising responder’s suit at the lowest level (may have good three-card support);
+    - Rebidding a new suit at the one level or rebidding a new suit at the two level that is lower ranking than the opening suit (not reversing);
+    - Rebidding opener’s suit at the lowest level.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340564981
+   :END:
+*** Text
+    *RESPONSES AND LATER BIDDING AFTER A 1♥ OR A 1♠ OPENING*
+
+    Rebids with a medium hand ({{c1::16–18}} points):
+    - Jump raise of {{c1::responder’s suit}} or jump rebid of {{c1::opener’s suit}};
+    - Reverse in a new suit, i.e., bid a {{c1::new suit}} at the {{c1::two}} level which is {{c1::higher}} ranking than the opening suit;
+    - Non-reverse bid in a new suit (this has the wide range of {{c1::13–18}} points).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+*** Text
+    :END:
+    *RESPONSES AND LATER BIDDING AFTER A 1♥ OR A 1♠ OPENING*
+
+    With a maximum hand ({{c1::19–21}} or {{c1::22}} points) opener must make a very strong rebid:
+    - Jump in notrump;
+    - Double jump raise of responder’s suit or double jump rebid of opener’s suit;
+    - Jump shift in a new suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565056
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2NT - 3♣, 3♦, 3♠ (Jacoby 2NT)
+    #+end_example
+
+*** Back
+    Singleton or void in that suit. Other bids deny a short suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565130
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2NT - 4♥ (Jacoby 2NT)
+    #+end_example
+
+*** Back
+    Minimum hand.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565204
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2NT - 3NT (Jacoby 2NT)
+    #+end_example
+
+*** Back
+    Medium hand (15–17).
+
+    Or
+
+    14-15 points, balanced. The point range varies by partnership agreement. Oswald Jacoby originally wrote that 3NT required "a trifle" more than a minimum.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565358
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2NT - 3♥ (Jacoby 2NT)
+    #+end_example
+
+*** Back
+    Maximum hand (18+).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565430
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2NT - 4♣, 4♦ (Jacoby 2NT)
+    #+end_example
+
+*** Back
+    2nd suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565504
+   :END:
+*** Front
+    #+BEGIN_EXAMPLE
+        1♥ - 1♠
+        2♣ - Pass, 2♥, 2♠
+    #+END_EXAMPLE
+
+*** Back
+    - Bids available for inviting game: 2NT, 3 of a previously bid suit
+    - 6–9 points, sign-off in partscore.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565605
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 1♠
+        2♣ - 2NT, 3♦, 3♥, 3♠
+    #+end_example
+
+*** Back
+    - Bids available for a sign-off in partscore: Pass, 1NT, 2 of a previously bid suit.
+    - 10–11 points, inviting game.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565656
+   :END:
+*** Front
+    #+begin_example
+        1♥  - 1♠
+        1NT - 2♣, 2♦
+    #+end_example
+
+*** Back
+    - After a 1NT rebid by opener, bids of a new suit at the next higher level are non-forcing.
+    - Non-forcing. Responder must jump shift to 3♣ or 3♦ to force game.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565806
+   :END:
+*** Front
+    #+begin_example
+        1♣  - 1♥
+        1NT - 2♠, 3♦
+    #+end_example
+
+*** Back
+    - Second-round forcing bids following a 1NT rebid by opener: a reverse or jump shift into a new suit is a game force.
+    - Game force.
+    - Bids available for signing off in game: 3NT, 4♥, 4♠, 5♣, 5♦.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340565879
+   :END:
+*** Text
+    *SUBSEQUENT BIDDING BY RESPONDER*
+
+    If responder initially bids a new suit at the two level, the same rules apply EXCEPT that a subsequent jump raise of opener’s {{c1::first suit}} to the {{C1::THREE LEVEL}} is game forcing — responder should make a limit raise directly over the opening with {{c1::10–11}} points and at least {{c1::three-card}} support.
+
+    {{c1::
+    #+begin_example
+     1♠ - 2♣
+     2♥ - 2NT, 3♣, 3♥ = invitation to game (10–11 points).
+        - 2♠ = preference, not forcing. Responder has 11–12 points and a doubleton spade.
+        - 3♦ = game force, could be conventional.
+        - 3♠ = game force.
+     #+end_example
+    }}
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340565958
+   :END:
+*** Front
+    #+begin_example
+        1♠ - 2♣
+        2♥ - 2NT, 3♣, 3♥
+    #+end_example
+
+*** Back
+    Invitation to game (10–11 points).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566031
+   :END:
+*** Front
+    #+begin_example
+        1♠ - 2♣
+        2♥ - 2♠
+    #+end_example
+
+*** Back
+    Preference, not forcing. Responder has 11–12 points and a doubleton spade.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566109
+   :END:
+*** Front
+    #+begin_example
+        1♠ - 2♣
+        2♥ - 3♦
+    #+end_example
+
+*** Back
+    After opener rebids in a suit, a new suit by responder is forcing. If 4th suit, could be artificial/conventional.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566231
+   :END:
+*** Front
+    #+begin_example
+        1♠ - 2♣
+        2♥ - 3♠
+    #+end_example
+
+*** Back
+    Game force.
+
+    If responder initially bids a new suit at the two level, the same rules apply EXCEPT that a subsequent jump raise of opener’s first suit to the THREE LEVEL is game forcing — responder should make a limit raise directly over the opening with 10–11 points and at least three-card support.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340566306
+   :END:
+*** Text
+    NOTE: Responder promises to bid again if he responded with a {{c1::new}} suit at the {{c1::two}} level unless opener’s rebid is at the {{c1::game}} level. This applies when responder is an unpassed hand.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566381
+   :END:
+*** Front
+    #+begin_example
+        1♠ - 2♣
+        2♦ -
+    #+end_example
+
+*** Back
+    Forcing one round. Responder can limit his hand by bidding 2♠, 2NT, 3♣, or 3♦ at this point. He should not pass, since opener could have 18 points (just short of a jump shift rebid).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340566459
+   :END:
+*** Text
+    A 1♦ opener suggests a {{c1::four-card}} or longer suit, since 1♣ is preferred on hands where a {{c1::three-card}} minor suit must be opened. The exception is a hand with 4–4–3–2 shape: four spades, four hearts, three diamonds, and two clubs, which is opened 1♦.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566531
+   :END:
+*** Front
+    #+begin_example
+        1♣ - 2NT
+    #+end_example
+
+*** Back
+    13-15, game forcing.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566608
+   :END:
+*** Front
+    #+begin_example
+        1♣ - 3NT
+    #+end_example
+
+*** Back
+    16-18.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340566681
+   :END:
+*** Text
+    There is no forcing {{c1::minor-suit}} raise.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566830
+   :END:
+*** Front
+    #+begin_example
+        2♣ opening
+    #+end_example
+
+*** Back
+    At least 22+ points, or the playing equivalent.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566906
+   :END:
+*** Front
+    #+begin_example
+        2♣ - 2♦
+    #+end_example
+
+*** Back
+    Conventional, could be "waiting" with a good hand not suited to a positive response.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340566983
+   :END:
+*** Front
+    #+begin_example
+        2♣ - 2♥, 2♠, 3♣, 3♦
+    #+end_example
+
+*** Back
+    Natural and game forcing. At least a five-card suit and 8 points.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567031
+   :END:
+*** Front
+    #+begin_example
+        2♣ - 2NT
+    #+end_example
+
+*** Back
+    A balanced 8 HCP.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567130
+   :END:
+*** Front
+    #+begin_example
+        2♣  - 2♦
+        2NT -
+    #+end_example
+
+*** Back
+    Showing 22-24 pts.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567256
+   :END:
+*** Front
+    #+begin_example
+        2♣  - 2♦
+        2NT - 3♣
+    #+end_example
+
+*** Back
+    Stayman.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567332
+   :END:
+*** Front
+    #+begin_example
+        2♣  - 2♦
+        2NT - 3♦, 3♥
+    #+end_example
+
+*** Back
+    Jacoby transfers to hearts and spades, respectively.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567379
+   :END:
+*** Front
+    #+begin_example
+        2♣  - 2♦
+        2NT - 4♣
+    #+end_example
+
+*** Back
+    Gerber.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567457
+   :END:
+*** Front
+    #+begin_example
+        2♣  - 2♦
+        2NT - 4NT
+    #+end_example
+
+*** Back
+    2NT shows 22-24 pts.
+
+    Inviting a slam in notrump.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340567533
+   :END:
+*** Text
+    2♣ opening: If opener rebids a suit over a 2♦ response, the bidding is forcing to {{c1::3}} of opener’s major or {{c1::4}} of opener’s minor.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567606
+   :END:
+*** Front
+    #+begin_example
+        2♣ - 2♦
+        2♥ - 2♠
+        3♥ -
+    #+end_example
+
+*** Back
+    Not forcing.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340567758
+   :END:
+*** Text
+    A weak two-bid shows a {{c1::six-card}} suit of reasonable quality and {{c1::5–11}} HCP.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567830
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 2NT
+    #+end_example
+
+*** Back
+    Forcing, showing game interest. (This applies also if the opponents intervene with a double or a bid.)
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567907
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 2NT - 3♦
+    #+end_example
+
+*** Back
+    Minimum weak two (5-8 pts).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340567956
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 2NT - 3♣, 3♥, 3♠
+    #+end_example
+
+*** Back
+    Maximum, showing a feature in (ace or king) in new suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568055
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 2NT - 3NT
+    #+end_example
+
+*** Back
+    Lacking a feature, lets responder place contract.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568130
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 3♦
+    #+end_example
+
+*** Back
+    To play and could be preemptive (weak).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568255
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 3NT
+    #+end_example
+
+*** Back
+    To play.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568308
+   :END:
+*** Front
+    #+begin_example
+        2♦ - 3♣, 2♥, 2♠
+    #+end_example
+
+*** Back
+    *SEQUENCE AFTER A WEAK TWO-BID OF 2♦, 2♥ OR 2♠*
+
+    RONF (Raise Only Non-Force), forces 1 round, at least 5-card suit.
+    - Opener rebids with 3 card fit or maybe doubleton honor.
+    - With no fit:
+      - With a minimum weak two-bid (5–8 points), rebid the suit at the lowest level.
+      - With a maximum weak two-bid, name a new suit or bid notrump.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568404
+   :END:
+*** Front
+    #+begin_example
+        - - 4NT
+    #+end_example
+
+*** Back
+    Blackwood:
+
+    | Ace Asking       | King Asking       |
+    |------------------+-------------------|
+    | -  - 4NT         | -  - 4NT          |
+    | 5♣ = 0 or 4 aces | 5x - 5NT          |
+    | 5♦ = 1 ace       | 6♣ = 0 or 4 kings |
+    | 5♥ = 2 aces      | 6♦ = 1 king       |
+    | 5♠ = 3 aces      | 6♥ = 2 kings      |
+    |                  | 6♠ = 3 kings      |
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568482
+   :END:
+*** Front
+    Jump to 5NT
+
+*** Back
+    Grand Slam Force:
+
+    #+begin_example
+        5NT - 6 of the agreed suit = fewer than two top honors (A, K or Q).
+            - 7 of the agreed suit = two of the three top honors.
+    #+end_example
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340568533
+   :END:
+*** Text
+    Defensive bidding: overcalls show {{c1::8–16}} points (double and bid the long suit with a stronger hand).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340568604
+   :END:
+*** Text
+    Overcalls show {{c1::8–16}} points (double and bid the long suit with a stronger hand). The only forcing response is a {{c1::cuebid}} of opener’s suit, asking the overcaller about the quality of his overcall.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568757
+   :END:
+*** Front
+
+    #+begin_example
+         (1♦)   - 1♠ - (Pass) - 2♦
+         (Pass) - 2♠
+     #+end_example
+
+*** Back
+    *DEFENSIVE BIDDING*
+
+    Minimum overcall.
+
+    Overcalls show 8–16 points (double and bid the long suit with a stronger hand). The only forcing response is a cuebid of opener’s suit, asking the overcaller about the quality of his overcall.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568831
+   :END:
+*** Front
+    #+begin_example
+        (1♦)   - 1♥ - (Pass) - 2♦
+        (Pass) - other
+    #+end_example
+
+*** Back
+    *DEFENSIVE BIDDING*
+
+    Extra strength, 11 or 12 pts minimum.
+
+    Overcalls show 8–16 points (double and bid the long suit with a stronger hand). The only forcing response is a cuebid of opener’s suit, asking the overcaller about the quality of his overcall.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568908
+   :END:
+*** Front
+    A 1NT overcall shows...
+
+*** Back
+    15-18 pts and a balanced hand, preferably with stopper in opener's suit. No conventional responses are used by the responder to the 1NT overcall except 2♣, which is Stayman.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340568983
+   :END:
+*** Front
+    A jump overcall of 2NT shows...
+
+*** Back
+    at least 5–5 in the lowest two unbid suits.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340569032
+   :END:
+*** Text
+    Jump overcalls are {{c1::preemptive}}, showing the same value as an opening bid at the same level.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340569184
+   :END:
+*** Front
+    #+begin_example
+        (1♦) - 2♠
+    #+end_example
+
+*** Back
+    A hand that would open a weak two-bid in spades.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340569260
+   :END:
+*** Front
+    #+begin_example
+        (1♦) - 3♣
+    #+end_example
+
+*** Back
+    A hand that would open 3♣.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340569330
+   :END:
+*** Text
+    A cuebid overcall when the opponents have bid two suits is {{c1::natural}} in either suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340569380
+   :END:
+*** Text
+    A cuebid overcall when the opponents have bid only one suit is a {{c1::Michaels cuebid}} showing a {{c1::5-5}} two-suiter (or more distributional).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340569456
+   :END:
+*** Front
+    #+begin_example
+        (1♦) - 2♦
+    #+end_example
+
+*** Back
+    At least 5-5 in the majors, 8 pts or more.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340569532
+   :END:
+*** Front
+    #+begin_example
+        (1♠) - 2♠
+    #+end_example
+
+*** Back
+    At least 5-5 in hearts and a minor; 10 pts or more.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340569683
+   :END:
+*** Front
+    #+begin_example
+        (1♠) - 2♠ - (Pass) - 2NT
+    #+end_example
+
+*** Back
+    Asks for the minor, 3♣ = club suit, 3♦ = diamond suit.
+
+    Responder may bid 2NT over a major suit cuebid to ask for partner’s minor.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340569757
+   :END:
+*** Text
+    A reopening 1NT after an opponent has opened shows {{c1::10–15}} points.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340569804
+   :END:
+*** Text
+    A double is for {{c1::takeout}} over an opening partscore bid (4♦ or lower); {{c1::penalty}} over opening game bids (4♥ or higher). A below-game jump response to a takeout double is {{c1::invitational}}. To force, responder {{c1::cuebids}} opener’s suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340569881
+   :END:
+*** Text
+    Versus an opening preempt, an overcall in a suit or notrump is {{c1::natural}}; a cuebid is {{c1::Michaels}}.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340569958
+   :END:
+*** Front
+    #+begin_example
+    1♠ - (2♣) - 3♣
+    #+end_example
+
+*** Back
+    Game force; usually a raise.
+
+    Cuebidding right-hand opponent’s suit shows values for game without clear direction for the moment. This is often used to show a game-forcing raise.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340570032
+   :END:
+*** Text
+    The negative double is used through {{c1::2♠}}, promising {{c1::four}} cards (at least) in an unbid major.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340570106
+   :END:
+*** Text
+    Bidding a major at the two level or higher shows {{c1::11}} or more points and a {{c1::five-card}} or longer suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570182
+   :END:
+*** Front
+    #+begin_example
+    1♣ - (1♦) - Double
+    #+end_example
+
+*** Back
+    4-4 or better in the majors
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570332
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (1♥) - Double
+    #+end_example
+
+*** Back
+    Exactly 4 spades (1♠ promises 5).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570407
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (1♠) - Double
+    #+end_example
+
+*** Back
+    Four hearts and 6+ pts or 5 five hearts and 5-10 pts.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570483
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (Double) - 1♥, 1♠
+    #+end_example
+
+*** Back
+    Forcing, point count not limited.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570558
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (Double) - 2♣
+    #+end_example
+
+*** Back
+    Non-forcing (6–10 points, usually a six-card suit).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570632
+   :END:
+*** Front
+    #+begin_example
+       1♦ - (Double) - 2NT
+    #+end_example
+
+*** Back
+    Limit raise (at least 10 points) or better.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570782
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (Double) - (Redouble)
+    #+end_example
+
+*** Back
+    10 points or more, but it is better to make a more descriptive bid of 1♥, 1♠, or 2NT with the appropriate hand.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570858
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (Double) - 3♦
+    #+end_example
+
+*** Back
+    Preemptive, good trump support but fewer than 10 points.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340570930
+   :END:
+*** Front
+    #+begin_example
+        1♦ - (Double) - 2♥, 2♠, 3♣
+    #+end_example
+
+*** Back
+    Six-plus card suit, like a weak two-bid or preemptive three-bid.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571005
+   :END:
+*** Front
+    #+begin_example
+        4♠ - (Double) - Redouble
+    #+end_example
+
+*** Back
+    Penalty (four level or higher).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571084
+   :END:
+*** Front
+    #+begin_example
+        1NT - (Pass) - 2♦ - (Double) - Redouble
+    #+end_example
+
+*** Back
+    Penalty, good diamond suit.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571232
+   :END:
+*** Front
+    #+begin_example
+        1♠ - (Double) - Redouble
+    #+end_example
+
+*** Back
+    10+ pts.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571306
+   :END:
+*** Front
+    #+begin_example
+        1♦   - (Pass) - Pass - (Double)
+        Pass - (Pass) - Redouble
+    #+end_example
+
+*** Back
+    SOS, responder can support at least two of the unbid suits.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571379
+   :END:
+*** Front
+    #+begin_example
+        1♥ - 2♠ - 2NT
+    #+end_example
+
+*** Back
+    Natural (12–14 HCP).
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571456
+   :END:
+*** Front
+    #+begin_example
+        2♣ - (Double) - 2♦
+    #+end_example
+
+*** Back
+    Natural and positive.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571531
+   :END:
+*** Front
+    #+begin_example
+        1♠ - (2♠) - 3♥
+    #+end_example
+
+*** Back
+    Game force.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571604
+   :END:
+*** Front
+    #+begin_example
+        1♠ - (2♠) - Double
+    #+end_example
+
+*** Back
+    At least 10 pts, probably balanced.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340571755
+   :END:
+*** Front
+    Defensive signals when following suit or discarding are...
+
+*** Back
+    "high encourages, low discourages." And "High-low is an even number, low-high is odd when count is given."
+
+    Example:
+    #+begin_example
+        Partner hand: AK♥, Your hand: J83♥
+        K♥ - (...) - 8♥
+    #+end_example
+
+    Normally, one "gives count" when following suit to the declarer's led suits. This will help one's partner determine the distribution of the suit. See duck (bridge) for an example.
+
+    Count in the trump suit is normally inverted. Thus, high-low shows an odd number of trumps. Some partnerships (by advance agreement) signal this way only when they have a desire or ability to ruff something.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340571804
+   :END:
+*** Text
+    Leads are {{c1::fourth}} best.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340571884
+   :END:
+*** Text
+    From three low cards against a suit contract lead {{c1::low}}; against a notrump contract lead {{c1::high}}.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340571959
+   :END:
+*** Text
+    From four cards or longer lead {{c1::fourth}} best.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340572034
+   :END:
+*** Text
+    The one systemic exception is leading from a suit of four or more cards without an honor. In this instance lead the {{c1::second}} highest card.
+
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Cloze
+   :ANKI_NOTE_ID: 1643340572104
+   :END:
+*** Text
+    Leads are {{c1::top}} of touching honors and top from an interior sequence. Against suits, the {{c1::ace}} is led from A K x.
+* SAYC addendum
+** Item
+   :PROPERTIES:
+   :ANKI_DECK: Bridge
+   :ANKI_NOTE_TYPE: Basic
+   :ANKI_NOTE_ID: 1643340572179
+   :END:
+*** Front
+    Jump shift rebid.
+
+*** Back
+    Game forcing jump shift rebid by opener showing 19-22 points.
+
+    #+begin_example
+    1♥ - 1♠
+    3♣
+    #+end_example
+
+* Conventions
+** Michaels Cue Bid
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572307
+    :END:
+**** Front
+     #+begin_example
+          1♣ - (2♣)
+     #+end_example
+**** Back
+     5+ hearts and 5+ spades.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572382
+    :END:
+**** Front
+     #+begin_example
+          1♦ - (2♦)
+     #+end_example
+**** Back
+     5+ hearts and 5+ spades.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572458
+    :END:
+**** Front
+     #+begin_example
+          1♥ - (2♥)
+     #+end_example
+**** Back
+     5+ spades and an unspecified minor (5+ clubs OR diamonds).
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572533
+    :END:
+**** Front
+     #+begin_example
+          1♠ - (2♠)
+     #+end_example
+**** Back
+     5+ hearts and an unspecified minor (5+ clubs OR diamonds).
+** Cappelletti
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572606
+    :END:
+**** Front
+     #+begin_example
+          1NT - (Double)
+     #+end_example
+**** Back
+     Penalty with roughly 15+ points.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572758
+    :END:
+**** Front
+     #+begin_example
+          1NT - (2♣)
+     #+end_example
+**** Back
+     A one-suited hand (any suit, normally 6+ cards) with roughly 11-14 points.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572832
+    :END:
+**** Front
+     #+begin_example
+          1NT - (2♦)
+     #+end_example
+**** Back
+     At least 5-4 or 4-5 in hearts and spades, asks partner to correct to either major.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572908
+    :END:
+**** Front
+     #+begin_example
+          1NT - (2♥)
+     #+end_example
+**** Back
+     At least 5-5 in hearts and a minor.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340572982
+    :END:
+**** Front
+     #+begin_example
+          1NT - (2♠)
+     #+end_example
+**** Back
+     At least 5-5 in spades and a minor.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340573033
+    :END:
+**** Front
+     #+begin_example
+          1NT - (2NT)
+     #+end_example
+**** Back
+     At least 5-5 in clubs and diamonds.
+** Opening conventions
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340573132
+    :END:
+**** Front
+     Rule of 20.
+**** Back
+     Add your high card points plus the number of cards in your two longest suits. If the total is 20 or more, then the hand is worth an opening bid.
+** 1430 RKCB
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340573257
+    :END:
+**** Front
+     1430 RKCB
+**** Back
+
+     Keycard = Ace or King of agreed upon trump suit.
+
+     | Keycard Asking                                       | King Asking   |
+     |------------------------------------------------------+---------------|
+     |     - 4NT                                            |     - 4NT     |
+     | 5♣  = 1 or 4 key cards                               | 5x  - 5NT     |
+     | 5♦  = 0 or 3 key cards                               | 6♣  = 0 kings |
+     | 5♥  = 2 or 5 key cards without queen of trumps       | 6♦  = 1 kings |
+     | 5♠  = 2 or 5 key cards with queen of trumps          | 6♥  = 2 kings |
+     | 5NT = An even # of key cards and a void somewhere    | 6♠  = 3 kings |
+     | 6♣  = An odd # of key cards and:                     |               |
+     | - A club void if clubs aren't trumps, or             |               |
+     | - A void in any other suit if clubs are trumps       |               |
+     | 6♦  = An odd # of key cards and:                     |               |
+     | - A diamond void if hearts or spades are trumps, or  |               |
+     | - A void in hearts or spades, if diamonds are trumps |               |
+     | 6♥  = An odd # of key cards and:                     |               |
+     | - A heart void if spades are trumps, or              |               |
+     | - A spade void if hearts are trumps                  |               |
+
+** Defending
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Basic
+    :ANKI_NOTE_ID: 1643340573331
+    :END:
+**** Front
+     Fourth-Best Leads
+**** Back
+     Fourth-best leads are a standard defensive agreement on the opening lead and on subsequent leads. They are made from suits that are four cards or longer, and do not contain an honor sequence.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573408
+    :END:
+**** Text
+     KT53 - lead the {{c1::3}}.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573483
+    :END:
+**** Text
+     J9652  - lead the {{c1::5}}.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573558
+    :END:
+**** Text
+     T7542 - lead the {{c1::4}}.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573633
+    :END:
+**** Text
+     AT53 - lead the {{c1::ace}} against a suit contract. Against no-trumps, the proper lead would still be the {{c1::3}}.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573682
+    :END:
+**** Text
+     KQ93 - lead the {{c1::king}} against a suit contract (i.e. the top of any honor sequence). Against no-trumps, the proper lead would still be the {{c1::3}}.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573831
+    :END:
+**** Text
+     KJT5 - lead the {{c1::jack}} (i.e. the top card of an interior honor sequence) against both suit and no-trump contracts.
+*** Item
+    :PROPERTIES:
+    :ANKI_DECK: Bridge
+    :ANKI_NOTE_TYPE: Cloze
+    :ANKI_NOTE_ID: 1643340573879
+    :END:
+**** Text
+     9872 - suit sequences headed by the 98 (or lower) require partnership discussion. Many players would lead the {{c1::9}} instead of the {{c1::2}}.
+** Artificial doubles
+*** Takeout doubles
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340573957
+     :END:
+***** Front
+      The takeout double is a double that...
+***** Back
+      asks partner to bid one of the unbid suits. The double usually shows 11+ points and 3+ cards in each unbid suit.
+
+      #+begin_example
+            Opener	Overcaller	Responder
+            1♣      1♦          Dbl
+      #+end_example
+
+      Usually shows 4-4 in the majors. With 5-4 or longer distribution, responder should bid his longest major first. With 5-5 distribution, responder should bid 1♠, planning on rebidding his hearts.
+
+      #+begin_example
+            Opener	Overcaller	Responder
+            1♦      2♣          Dbl
+      #+end_example
+
+      Shows at least one 4-card (or longer) major suit. Note that if responder has a 5-card (or longer) major, he must have fewer than 10 points. Otherwise, he should bid his 5-card major immediately.
+
+      #+begin_example
+            Opener	Overcaller	Responder
+            1♥      2♦          Dbl
+      #+end_example
+
+      Shows 4 spades with 6+ points or 5+ spades with 6-9 points. Again, with 5+ spades and 10+ points, responder would bid 2♠ instead.
+
+      #+begin_example
+            Opener	Overcaller	Responder
+            1♥      1♠          Dbl
+      #+end_example
+
+      Shows at least 4-4 in the minors.
+
+*** Negative doubles
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574058
+     :END:
+***** Front
+      The negative double (aka "Sputnik") is...
+***** Back
+      a conventional double used by responder after opener starts the bidding with one-of-a-suit and the next player makes a suit overcall.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Cloze
+     :ANKI_NOTE_ID: 1643340574107
+     :END:
+***** Text
+      The negative double always promises {{c1::6+}} points and, depending on the auction, at least {{c1::four}} cards in at least one of the unbid suits.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Cloze
+     :ANKI_NOTE_ID: 1643340574180
+     :END:
+***** Text
+      If one major suit is unbid, the negative double always shows {{c1::that suit}}. If both majors are unbid, then the double shows {{c1::both majors}} at the {{c1::one}}-level. After an opposing {{c1::2-level}} overcall, the double only promises {{c1::one}} major.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_FAILURE_REASON: cannot create note because it is a duplicate
+     :END:
+***** Front
+      #+begin_example
+            1♣ - (1♦) - Double
+      #+end_example
+***** Back
+      Negative double. Usually shows 4-4 in the majors. With 5-4 or longer distribution, responder should bid his longest major first. With 5-5 distribution, responder should bid 1♠, planning on rebidding his hearts.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574406
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (2♣) - Double
+      #+end_example
+***** Back
+      Negative double. Shows at least one 4-card (or longer) major suit. Note that if responder has a 5-card (or longer) major, he must have fewer than 10 points. Otherwise, he should bid his 5-card major immediately.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574456
+     :END:
+***** Front
+      #+begin_example
+            1♥ - (2♦) - Double
+      #+end_example
+***** Back
+      Negative double. Shows 4 spades with 6+ points or 5+ spades with 6-9 points. Again, with 5+ spades and 10+ points, responder would bid 2♠ instead.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574529
+     :END:
+***** Front
+      #+begin_example
+            1♥ - (1♠) - Double
+      #+end_example
+***** Back
+      Negative double. Shows at least 4-4 in the minors.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574608
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (1♥) - Double - Pass
+            1♠
+      #+end_example
+***** Back
+      Negative double. Shows 3+ spades (usually 4) and 11-14 points.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574706
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (1♥) - Double - Pass
+            2♠
+      #+end_example
+***** Back
+      Negative double. Shows 4 spades and 15-17 points.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574829
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (1♥) - Double - Pass
+            3♠
+      #+end_example
+***** Back
+      Negative double. Shows 4 spades and 18-19 points.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574906
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (1♥) - Double - Pass
+            4♠
+      #+end_example
+***** Back
+      Negative double. Shows 4 spades and 20-21 points.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340574983
+     :END:
+***** Front
+      #+begin_example
+            1♣  - (1♠) - Double - Pass
+            1NT
+      #+end_example
+***** Back
+      Negative double. Shows less than 4 hearts, a spade stopper, balanced or semi-balanced distribution, and 11-14 points (if playing a 15-17 1NT).
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575030
+     :END:
+***** Front
+      #+begin_example
+            1♣  - (1♠) - Double - Pass
+            2NT
+      #+end_example
+***** Back
+      Negative double. Shows less than 4 hearts, a spade stopper, balanced or semi-balanced distribution, and 18-19 points (if playing a 15-17 1NT).
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575130
+     :END:
+***** Front
+      #+begin_example
+            1♣ - (1♠) - Double - Pass
+            2♣
+      #+end_example
+***** Back
+      Negative double. Shows 6+ clubs and 11-16 points.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575259
+     :END:
+***** Front
+      #+begin_example
+            1♣ - (1♠) - Double - Pass
+            3♣
+      #+end_example
+***** Back
+      Negative double. Shows 6+ clubs and 17-19 points.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575330
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (1♥) - Double - Pass
+            2♥
+      #+end_example
+***** Back
+      Negative double. Strong and artificial, a cue-bid is a one-round force. It should only be used when all other bids look unattractive. In the above hand, West cannot support spades, bid no-trumps (lacking a heart stopper), or show any other suit naturally. Hopefully partner can do something useful like rebid 2NT.
+** Unusual 2NT
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575408
+     :END:
+***** Front
+      Definition of unusual 2NT:
+
+***** Back
+      The Unusual 2NT overcall is used after the opponents open the bidding. A 2NT overcall is artificial, showing the two lowest unbid suits (at least 5-5 shape). There is no point minimum, although obvious factors like vulnerability should be considered.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575483
+     :END:
+***** Front
+      #+begin_example
+            1♣ - (2NT)
+      #+end_example
+***** Back
+      5+ hearts and 5+ diamonds.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575554
+     :END:
+***** Front
+      #+begin_example
+            1♦ - (2NT)
+      #+end_example
+***** Back
+      5+ hearts and 5+ clubs.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575659
+     :END:
+***** Front
+      #+begin_example
+            1♥ - (2NT)
+      #+end_example
+***** Back
+      5+ diamonds and 5+ clubs.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575783
+     :END:
+***** Front
+      #+begin_example
+            1♠ - (2NT)
+      #+end_example
+***** Back
+      5+ diamonds and 5+ clubs.
+** Splinters
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Cloze
+     :ANKI_NOTE_ID: 1643340575857
+     :END:
+***** Text
+      The most common splinter situation occurs when partner opens with a major and you make a {{c1::double}} jump with {{c1::4+}} card support.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340575933
+     :END:
+***** Front
+      #+begin_example
+            1♠ - 4♣
+      #+end_example
+***** Back
+      4+♠ (and game support, ~7 losers and 9-12 HCP) and singleton or void in ♣.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340576005
+     :END:
+***** Front
+      #+begin_example
+            1♥ - 3♠
+      #+end_example
+***** Back
+      4+♥ (and game support, ~7 losers and 9-12 HCP) and singleton or void in ♠.
+** Jacoby 2NT
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Cloze
+     :ANKI_NOTE_ID: 1643340576057
+     :END:
+***** Text
+      The Jacoby 2NT convention is an artificial, game-forcing response to a {{c1::1♥}} or {{c1::1♠}} opening bid. The 2NT response shows {{c1::4+}} trump support with {{c1::13+}} points. The bid asks partner to describe her hand further so that slam prospects can be judged accordingly.
+* Hand evaluation
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340576155
+     :END:
+***** Front
+      Length points are used for 5-card suits or longer.
+***** Back
+      #+begin_example
+            - 5-card suit = 1 point
+            - 6-card suit = 2 points
+            - 7-card suit = 3 points
+            - Etc.
+      #+end_example
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340576283
+     :END:
+***** Front
+      Short suit points are a hand evaluation method when bidding suit contracts. It assigns points to each doubleton, singleton and void:
+***** Back
+      #+begin_example
+            - Doubleton = 1 point
+            - Singleton = 2 points
+            - Void      = 3 points
+      #+end_example
+
+      Things to bear in mind:
+      - Do not count short suit points in no-trump auctions.
+      - Singleton honors should be counted for HCP or shortness, but not both. This rule also applies to doubleton honor holdings like AK, KQ, KJ, QJ, etc.
+* Terminology
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340576357
+     :END:
+***** Front
+      Jump bid
+***** Back
+      A bid made at a level higher than the lowest level at which that suit could be legally bid.
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340576407
+     :END:
+***** Front
+      Reverse bid
+***** Back
+      In bridge, a reverse is a type of bid by opener that shows extra strength. Specifically, it occurs when opener is unbalanced with 16+ points (some players require 17+ points) and hears a one-over-one response from partner. An example auction:
+
+      #+begin_example
+        West     West   North   East   South
+        ♠K       1♣     Pass    1♠     Pass
+        ♥AK52    2♥
+        ♦T92
+        ♣AK643
+      #+end_example
+**** Item
+     :PROPERTIES:
+     :ANKI_DECK: Bridge
+     :ANKI_NOTE_TYPE: Basic
+     :ANKI_NOTE_ID: 1643340576504
+     :END:
+***** Front
+      Reopening / Balance
+***** Back
+      To keep the bidding open when it is about to be passed out at a low level. For example, if the bidding goes:
+
+      #+begin_example
+            1♥ - (Pass) - Pass - (1NT)
+      #+end_example
+
+      the 1NT bid is a balancing action. The balancing bid is often made with a hand of substandard strength in order to prevent the opponents from securing a low-level contract.
