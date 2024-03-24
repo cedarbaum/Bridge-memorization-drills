@@ -8,7 +8,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562336
+   :ANKI_NOTE_ID: 1711243994329
    :END:
 *** Front
     1NT opening
@@ -20,7 +20,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562404
+   :ANKI_NOTE_ID: 1711243994427
    :END:
 *** Front
     2NT opening
@@ -32,7 +32,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562555
+   :ANKI_NOTE_ID: 1711243994500
    :END:
 *** Front
     3NT opening
@@ -44,7 +44,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562605
+   :ANKI_NOTE_ID: 1711243994575
    :END:
 *** Front
     Jacoby transfer responses (1NT opening)
@@ -73,7 +73,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562676
+   :ANKI_NOTE_ID: 1711243994650
    :END:
 *** Front
     #+begin_example
@@ -87,7 +87,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562755
+   :ANKI_NOTE_ID: 1711243994725
    :END:
 *** Front
     #+begin_example
@@ -101,7 +101,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562830
+   :ANKI_NOTE_ID: 1711243994799
    :END:
 *** Front
     #+begin_example
@@ -115,7 +115,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340562979
+   :ANKI_NOTE_ID: 1711243994875
    :END:
 *** Front
     #+begin_example
@@ -129,7 +129,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563057
+   :ANKI_NOTE_ID: 1711243994951
    :END:
 *** Front
     #+begin_example
@@ -143,7 +143,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563130
+   :ANKI_NOTE_ID: 1711243995026
    :END:
 *** Front
     #+begin_example
@@ -157,7 +157,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563204
+   :ANKI_NOTE_ID: 1711243995100
    :END:
 *** Front
     #+begin_example
@@ -171,7 +171,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563282
+   :ANKI_NOTE_ID: 1711243995175
    :END:
 *** Front
     #+begin_example
@@ -185,7 +185,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563406
+   :ANKI_NOTE_ID: 1711243995250
    :END:
 *** Front
     #+begin_example
@@ -199,7 +199,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563506
+   :ANKI_NOTE_ID: 1711243995325
    :END:
 *** Front
     #+begin_example
@@ -224,7 +224,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563579
+   :ANKI_NOTE_ID: 1711243995401
    :END:
 *** Front
     #+begin_example
@@ -238,7 +238,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340563634
+   :ANKI_NOTE_ID: 1711243995475
    :END:
 *** Text
     #+begin_example
@@ -251,7 +251,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340563704
+   :ANKI_NOTE_ID: 1711243995550
    :END:
 *** Text
     #+begin_example
@@ -264,7 +264,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563781
+   :ANKI_NOTE_ID: 1711243995626
    :END:
 *** Front
     Jacoby transfer responses (2NT opening)
@@ -282,7 +282,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340563931
+   :ANKI_NOTE_ID: 1711243995700
    :END:
 *** Front
     Jacoby transfer responses (3NT opening)
@@ -298,7 +298,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564008
+   :ANKI_NOTE_ID: 1711243995776
    :END:
 *** Front
     #+begin_example
@@ -312,7 +312,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564080
+   :ANKI_NOTE_ID: 1711243995849
    :END:
 *** Front
     #+begin_example
@@ -326,7 +326,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564156
+   :ANKI_NOTE_ID: 1711243995925
    :END:
 *** Front
     #+begin_example
@@ -340,7 +340,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564230
+   :ANKI_NOTE_ID: 1711243996001
    :END:
 *** Front
     #+begin_example
@@ -354,7 +354,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564354
+   :ANKI_NOTE_ID: 1711243996075
    :END:
 *** Front
     #+begin_example
@@ -368,7 +368,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564404
+   :ANKI_NOTE_ID: 1711243996152
    :END:
 *** Front
     #+begin_example
@@ -382,7 +382,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564483
+   :ANKI_NOTE_ID: 1711243996226
    :END:
 *** Front
     #+begin_example
@@ -396,7 +396,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564555
+   :ANKI_NOTE_ID: 1711243996300
    :END:
 *** Front
     #+begin_example
@@ -410,7 +410,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564658
+   :ANKI_NOTE_ID: 1711243996375
    :END:
 *** Front
     #+begin_example
@@ -424,7 +424,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564704
+   :ANKI_NOTE_ID: 1711243996450
    :END:
 *** Front
     #+begin_example
@@ -438,7 +438,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340564857
+   :ANKI_NOTE_ID: 1711243996525
    :END:
 *** Front
     #+begin_example
@@ -452,7 +452,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340564930
+   :ANKI_NOTE_ID: 1711243996601
    :END:
 *** Text
     *RESPONSES AND LATER BIDDING AFTER A 1♥ OR A 1♠ OPENING*
@@ -467,7 +467,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340564981
+   :ANKI_NOTE_ID: 1711243996677
    :END:
 *** Text
     *RESPONSES AND LATER BIDDING AFTER A 1♥ OR A 1♠ OPENING*
@@ -494,7 +494,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565056
+   :ANKI_NOTE_ID: 1711243996750
    :END:
 *** Front
     #+begin_example
@@ -508,7 +508,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565130
+   :ANKI_NOTE_ID: 1711243996827
    :END:
 *** Front
     #+begin_example
@@ -522,7 +522,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565204
+   :ANKI_NOTE_ID: 1711243996901
    :END:
 *** Front
     #+begin_example
@@ -540,7 +540,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565358
+   :ANKI_NOTE_ID: 1711243996976
    :END:
 *** Front
     #+begin_example
@@ -554,7 +554,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565430
+   :ANKI_NOTE_ID: 1711243997051
    :END:
 *** Front
     #+begin_example
@@ -568,7 +568,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565504
+   :ANKI_NOTE_ID: 1711243997125
    :END:
 *** Front
     #+BEGIN_EXAMPLE
@@ -584,7 +584,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565605
+   :ANKI_NOTE_ID: 1711243997201
    :END:
 *** Front
     #+begin_example
@@ -600,7 +600,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565656
+   :ANKI_NOTE_ID: 1711243997276
    :END:
 *** Front
     #+begin_example
@@ -616,7 +616,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565806
+   :ANKI_NOTE_ID: 1711243997352
    :END:
 *** Front
     #+begin_example
@@ -633,7 +633,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340565879
+   :ANKI_NOTE_ID: 1711243997427
    :END:
 *** Text
     *SUBSEQUENT BIDDING BY RESPONDER*
@@ -654,7 +654,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340565958
+   :ANKI_NOTE_ID: 1711243997501
    :END:
 *** Front
     #+begin_example
@@ -669,7 +669,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566031
+   :ANKI_NOTE_ID: 1711243997576
    :END:
 *** Front
     #+begin_example
@@ -684,7 +684,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566109
+   :ANKI_NOTE_ID: 1711243997650
    :END:
 *** Front
     #+begin_example
@@ -699,7 +699,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566231
+   :ANKI_NOTE_ID: 1711243997725
    :END:
 *** Front
     #+begin_example
@@ -716,7 +716,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340566306
+   :ANKI_NOTE_ID: 1711243997800
    :END:
 *** Text
     NOTE: Responder promises to bid again if he responded with a {{c1::new}} suit at the {{c1::two}} level unless opener’s rebid is at the {{c1::game}} level. This applies when responder is an unpassed hand.
@@ -725,7 +725,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566381
+   :ANKI_NOTE_ID: 1711243997876
    :END:
 *** Front
     #+begin_example
@@ -740,7 +740,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340566459
+   :ANKI_NOTE_ID: 1711243997950
    :END:
 *** Text
     A 1♦ opener suggests a {{c1::four-card}} or longer suit, since 1♣ is preferred on hands where a {{c1::three-card}} minor suit must be opened. The exception is a hand with 4–4–3–2 shape: four spades, four hearts, three diamonds, and two clubs, which is opened 1♦.
@@ -749,7 +749,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566531
+   :ANKI_NOTE_ID: 1711243998025
    :END:
 *** Front
     #+begin_example
@@ -763,7 +763,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566608
+   :ANKI_NOTE_ID: 1711243998101
    :END:
 *** Front
     #+begin_example
@@ -777,7 +777,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340566681
+   :ANKI_NOTE_ID: 1711243998175
    :END:
 *** Text
     There is no forcing {{c1::minor-suit}} raise.
@@ -786,7 +786,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566830
+   :ANKI_NOTE_ID: 1711243998251
    :END:
 *** Front
     #+begin_example
@@ -800,7 +800,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566906
+   :ANKI_NOTE_ID: 1711243998327
    :END:
 *** Front
     #+begin_example
@@ -814,7 +814,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340566983
+   :ANKI_NOTE_ID: 1711243998400
    :END:
 *** Front
     #+begin_example
@@ -828,7 +828,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567031
+   :ANKI_NOTE_ID: 1711243998476
    :END:
 *** Front
     #+begin_example
@@ -842,7 +842,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567130
+   :ANKI_NOTE_ID: 1711243998550
    :END:
 *** Front
     #+begin_example
@@ -857,7 +857,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567256
+   :ANKI_NOTE_ID: 1711243998627
    :END:
 *** Front
     #+begin_example
@@ -872,7 +872,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567332
+   :ANKI_NOTE_ID: 1711243998702
    :END:
 *** Front
     #+begin_example
@@ -887,7 +887,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567379
+   :ANKI_NOTE_ID: 1711243998778
    :END:
 *** Front
     #+begin_example
@@ -902,7 +902,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567457
+   :ANKI_NOTE_ID: 1711243998850
    :END:
 *** Front
     #+begin_example
@@ -919,7 +919,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340567533
+   :ANKI_NOTE_ID: 1711243998926
    :END:
 *** Text
     2♣ opening: If opener rebids a suit over a 2♦ response, the bidding is forcing to {{c1::3}} of opener’s major or {{c1::4}} of opener’s minor.
@@ -928,7 +928,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567606
+   :ANKI_NOTE_ID: 1711243999000
    :END:
 *** Front
     #+begin_example
@@ -944,7 +944,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340567758
+   :ANKI_NOTE_ID: 1711243999074
    :END:
 *** Text
     A weak two-bid shows a {{c1::six-card}} suit of reasonable quality and {{c1::5–11}} HCP.
@@ -953,7 +953,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567830
+   :ANKI_NOTE_ID: 1711243999150
    :END:
 *** Front
     #+begin_example
@@ -967,7 +967,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567907
+   :ANKI_NOTE_ID: 1711243999228
    :END:
 *** Front
     #+begin_example
@@ -981,7 +981,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340567956
+   :ANKI_NOTE_ID: 1711243999300
    :END:
 *** Front
     #+begin_example
@@ -995,7 +995,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568055
+   :ANKI_NOTE_ID: 1711243999375
    :END:
 *** Front
     #+begin_example
@@ -1009,7 +1009,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568130
+   :ANKI_NOTE_ID: 1711243999450
    :END:
 *** Front
     #+begin_example
@@ -1023,7 +1023,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568255
+   :ANKI_NOTE_ID: 1711243999526
    :END:
 *** Front
     #+begin_example
@@ -1037,7 +1037,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568308
+   :ANKI_NOTE_ID: 1711243999601
    :END:
 *** Front
     #+begin_example
@@ -1057,7 +1057,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568404
+   :ANKI_NOTE_ID: 1711243999676
    :END:
 *** Front
     #+begin_example
@@ -1080,7 +1080,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568482
+   :ANKI_NOTE_ID: 1711243999749
    :END:
 *** Front
     Jump to 5NT
@@ -1097,7 +1097,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340568533
+   :ANKI_NOTE_ID: 1711243999825
    :END:
 *** Text
     Defensive bidding: overcalls show {{c1::8–16}} points (double and bid the long suit with a stronger hand).
@@ -1106,7 +1106,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340568604
+   :ANKI_NOTE_ID: 1711243999901
    :END:
 *** Text
     Overcalls show {{c1::8–16}} points (double and bid the long suit with a stronger hand). The only forcing response is a {{c1::cuebid}} of opener’s suit, asking the overcaller about the quality of his overcall.
@@ -1115,7 +1115,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568757
+   :ANKI_NOTE_ID: 1711243999974
    :END:
 *** Front
 
@@ -1135,7 +1135,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568831
+   :ANKI_NOTE_ID: 1711244000051
    :END:
 *** Front
     #+begin_example
@@ -1154,7 +1154,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568908
+   :ANKI_NOTE_ID: 1711244000126
    :END:
 *** Front
     A 1NT overcall shows...
@@ -1166,7 +1166,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340568983
+   :ANKI_NOTE_ID: 1711244000200
    :END:
 *** Front
     A jump overcall of 2NT shows...
@@ -1178,7 +1178,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340569032
+   :ANKI_NOTE_ID: 1711244000275
    :END:
 *** Text
     Jump overcalls are {{c1::preemptive}}, showing the same value as an opening bid at the same level.
@@ -1187,7 +1187,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340569184
+   :ANKI_NOTE_ID: 1711244000350
    :END:
 *** Front
     #+begin_example
@@ -1201,7 +1201,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340569260
+   :ANKI_NOTE_ID: 1711244000427
    :END:
 *** Front
     #+begin_example
@@ -1215,7 +1215,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340569330
+   :ANKI_NOTE_ID: 1711244000501
    :END:
 *** Text
     A cuebid overcall when the opponents have bid two suits is {{c1::natural}} in either suit.
@@ -1224,7 +1224,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340569380
+   :ANKI_NOTE_ID: 1711244000577
    :END:
 *** Text
     A cuebid overcall when the opponents have bid only one suit is a {{c1::Michaels cuebid}} showing a {{c1::5-5}} two-suiter (or more distributional).
@@ -1233,7 +1233,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340569456
+   :ANKI_NOTE_ID: 1711244000651
    :END:
 *** Front
     #+begin_example
@@ -1247,7 +1247,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340569532
+   :ANKI_NOTE_ID: 1711244000728
    :END:
 *** Front
     #+begin_example
@@ -1261,7 +1261,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340569683
+   :ANKI_NOTE_ID: 1711244000801
    :END:
 *** Front
     #+begin_example
@@ -1277,7 +1277,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340569757
+   :ANKI_NOTE_ID: 1711244000875
    :END:
 *** Text
     A reopening 1NT after an opponent has opened shows {{c1::10–15}} points.
@@ -1286,7 +1286,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340569804
+   :ANKI_NOTE_ID: 1711244000951
    :END:
 *** Text
     A double is for {{c1::takeout}} over an opening partscore bid (4♦ or lower); {{c1::penalty}} over opening game bids (4♥ or higher). A below-game jump response to a takeout double is {{c1::invitational}}. To force, responder {{c1::cuebids}} opener’s suit.
@@ -1295,7 +1295,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340569881
+   :ANKI_NOTE_ID: 1711244001026
    :END:
 *** Text
     Versus an opening preempt, an overcall in a suit or notrump is {{c1::natural}}; a cuebid is {{c1::Michaels}}.
@@ -1304,7 +1304,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340569958
+   :ANKI_NOTE_ID: 1711244001102
    :END:
 *** Front
     #+begin_example
@@ -1320,7 +1320,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340570032
+   :ANKI_NOTE_ID: 1711244001176
    :END:
 *** Text
     The negative double is used through {{c1::2♠}}, promising {{c1::four}} cards (at least) in an unbid major.
@@ -1329,7 +1329,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340570106
+   :ANKI_NOTE_ID: 1711244001250
    :END:
 *** Text
     Bidding a major at the two level or higher shows {{c1::11}} or more points and a {{c1::five-card}} or longer suit.
@@ -1338,7 +1338,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570182
+   :ANKI_FAILURE_REASON: cannot create note because it is a duplicate
    :END:
 *** Front
     #+begin_example
@@ -1352,7 +1352,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570332
+   :ANKI_NOTE_ID: 1711244001402
    :END:
 *** Front
     #+begin_example
@@ -1366,7 +1366,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570407
+   :ANKI_NOTE_ID: 1711244001476
    :END:
 *** Front
     #+begin_example
@@ -1380,7 +1380,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570483
+   :ANKI_NOTE_ID: 1711244001550
    :END:
 *** Front
     #+begin_example
@@ -1394,7 +1394,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570558
+   :ANKI_NOTE_ID: 1711244001625
    :END:
 *** Front
     #+begin_example
@@ -1408,7 +1408,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570632
+   :ANKI_NOTE_ID: 1711244001701
    :END:
 *** Front
     #+begin_example
@@ -1422,7 +1422,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570782
+   :ANKI_NOTE_ID: 1711244001775
    :END:
 *** Front
     #+begin_example
@@ -1436,7 +1436,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570858
+   :ANKI_NOTE_ID: 1711244001850
    :END:
 *** Front
     #+begin_example
@@ -1450,7 +1450,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340570930
+   :ANKI_NOTE_ID: 1711244001926
    :END:
 *** Front
     #+begin_example
@@ -1464,7 +1464,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571005
+   :ANKI_NOTE_ID: 1711244002002
    :END:
 *** Front
     #+begin_example
@@ -1478,7 +1478,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571084
+   :ANKI_NOTE_ID: 1711244002078
    :END:
 *** Front
     #+begin_example
@@ -1492,7 +1492,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571232
+   :ANKI_NOTE_ID: 1711244002151
    :END:
 *** Front
     #+begin_example
@@ -1506,7 +1506,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571306
+   :ANKI_NOTE_ID: 1711244002227
    :END:
 *** Front
     #+begin_example
@@ -1521,7 +1521,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571379
+   :ANKI_NOTE_ID: 1711244002303
    :END:
 *** Front
     #+begin_example
@@ -1535,7 +1535,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571456
+   :ANKI_NOTE_ID: 1711244002375
    :END:
 *** Front
     #+begin_example
@@ -1549,7 +1549,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571531
+   :ANKI_NOTE_ID: 1711244002452
    :END:
 *** Front
     #+begin_example
@@ -1563,7 +1563,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571604
+   :ANKI_NOTE_ID: 1711244002525
    :END:
 *** Front
     #+begin_example
@@ -1577,7 +1577,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340571755
+   :ANKI_NOTE_ID: 1711244002601
    :END:
 *** Front
     Defensive signals when following suit or discarding are...
@@ -1599,7 +1599,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340571804
+   :ANKI_NOTE_ID: 1711244002675
    :END:
 *** Text
     Leads are {{c1::fourth}} best.
@@ -1608,7 +1608,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340571884
+   :ANKI_NOTE_ID: 1711244002750
    :END:
 *** Text
     From three low cards against a suit contract lead {{c1::low}}; against a notrump contract lead {{c1::high}}.
@@ -1617,7 +1617,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340571959
+   :ANKI_NOTE_ID: 1711244002828
    :END:
 *** Text
     From four cards or longer lead {{c1::fourth}} best.
@@ -1626,7 +1626,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340572034
+   :ANKI_NOTE_ID: 1711244002900
    :END:
 *** Text
     The one systemic exception is leading from a suit of four or more cards without an honor. In this instance lead the {{c1::second}} highest card.
@@ -1635,7 +1635,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Cloze
-   :ANKI_NOTE_ID: 1643340572104
+   :ANKI_NOTE_ID: 1711244002975
    :END:
 *** Text
     Leads are {{c1::top}} of touching honors and top from an interior sequence. Against suits, the {{c1::ace}} is led from A K x.
@@ -1644,7 +1644,7 @@
    :PROPERTIES:
    :ANKI_DECK: Bridge
    :ANKI_NOTE_TYPE: Basic
-   :ANKI_NOTE_ID: 1643340572179
+   :ANKI_NOTE_ID: 1711244003050
    :END:
 *** Front
     Jump shift rebid.
@@ -1663,7 +1663,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572307
+    :ANKI_NOTE_ID: 1711244003126
     :END:
 **** Front
      #+begin_example
@@ -1675,7 +1675,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572382
+    :ANKI_NOTE_ID: 1711244003202
     :END:
 **** Front
      #+begin_example
@@ -1687,7 +1687,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572458
+    :ANKI_NOTE_ID: 1711244003278
     :END:
 **** Front
      #+begin_example
@@ -1699,7 +1699,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572533
+    :ANKI_NOTE_ID: 1711244003350
     :END:
 **** Front
      #+begin_example
@@ -1712,7 +1712,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572606
+    :ANKI_NOTE_ID: 1711244003430
     :END:
 **** Front
      #+begin_example
@@ -1724,7 +1724,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572758
+    :ANKI_NOTE_ID: 1711244003503
     :END:
 **** Front
      #+begin_example
@@ -1736,7 +1736,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572832
+    :ANKI_NOTE_ID: 1711244003576
     :END:
 **** Front
      #+begin_example
@@ -1748,7 +1748,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572908
+    :ANKI_NOTE_ID: 1711244003651
     :END:
 **** Front
      #+begin_example
@@ -1760,7 +1760,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340572982
+    :ANKI_NOTE_ID: 1711244003728
     :END:
 **** Front
      #+begin_example
@@ -1772,7 +1772,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340573033
+    :ANKI_NOTE_ID: 1711244003801
     :END:
 **** Front
      #+begin_example
@@ -1785,7 +1785,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340573132
+    :ANKI_NOTE_ID: 1711244003877
     :END:
 **** Front
      Rule of 20.
@@ -1796,7 +1796,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340573257
+    :ANKI_NOTE_ID: 1711244003953
     :END:
 **** Front
      1430 RKCB
@@ -1827,7 +1827,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Basic
-    :ANKI_NOTE_ID: 1643340573331
+    :ANKI_NOTE_ID: 1711244004000
     :END:
 **** Front
      Fourth-Best Leads
@@ -1837,7 +1837,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573408
+    :ANKI_NOTE_ID: 1711244004052
     :END:
 **** Text
      KT53 - lead the {{c1::3}}.
@@ -1845,7 +1845,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573483
+    :ANKI_NOTE_ID: 1711244004100
     :END:
 **** Text
      J9652  - lead the {{c1::5}}.
@@ -1853,7 +1853,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573558
+    :ANKI_NOTE_ID: 1711244004150
     :END:
 **** Text
      T7542 - lead the {{c1::4}}.
@@ -1861,7 +1861,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573633
+    :ANKI_NOTE_ID: 1711244004199
     :END:
 **** Text
      AT53 - lead the {{c1::ace}} against a suit contract. Against no-trumps, the proper lead would still be the {{c1::3}}.
@@ -1869,7 +1869,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573682
+    :ANKI_NOTE_ID: 1711244004251
     :END:
 **** Text
      KQ93 - lead the {{c1::king}} against a suit contract (i.e. the top of any honor sequence). Against no-trumps, the proper lead would still be the {{c1::3}}.
@@ -1877,7 +1877,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573831
+    :ANKI_NOTE_ID: 1711244004301
     :END:
 **** Text
      KJT5 - lead the {{c1::jack}} (i.e. the top card of an interior honor sequence) against both suit and no-trump contracts.
@@ -1885,7 +1885,7 @@
     :PROPERTIES:
     :ANKI_DECK: Bridge
     :ANKI_NOTE_TYPE: Cloze
-    :ANKI_NOTE_ID: 1643340573879
+    :ANKI_NOTE_ID: 1711244004353
     :END:
 **** Text
      9872 - suit sequences headed by the 98 (or lower) require partnership discussion. Many players would lead the {{c1::9}} instead of the {{c1::2}}.
@@ -1895,7 +1895,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340573957
+     :ANKI_NOTE_ID: 1711244004427
      :END:
 ***** Front
       The takeout double is a double that...
@@ -1935,7 +1935,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574058
+     :ANKI_NOTE_ID: 1711244004501
      :END:
 ***** Front
       The negative double (aka "Sputnik") is...
@@ -1945,7 +1945,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Cloze
-     :ANKI_NOTE_ID: 1643340574107
+     :ANKI_NOTE_ID: 1711244004552
      :END:
 ***** Text
       The negative double always promises {{c1::6+}} points and, depending on the auction, at least {{c1::four}} cards in at least one of the unbid suits.
@@ -1953,7 +1953,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Cloze
-     :ANKI_NOTE_ID: 1643340574180
+     :ANKI_NOTE_ID: 1711244004602
      :END:
 ***** Text
       If one major suit is unbid, the negative double always shows {{c1::that suit}}. If both majors are unbid, then the double shows {{c1::both majors}} at the {{c1::one}}-level. After an opposing {{c1::2-level}} overcall, the double only promises {{c1::one}} major.
@@ -1973,7 +1973,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574406
+     :ANKI_NOTE_ID: 1711244004701
      :END:
 ***** Front
       #+begin_example
@@ -1985,7 +1985,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574456
+     :ANKI_NOTE_ID: 1711244004750
      :END:
 ***** Front
       #+begin_example
@@ -1997,7 +1997,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574529
+     :ANKI_NOTE_ID: 1711244004801
      :END:
 ***** Front
       #+begin_example
@@ -2009,7 +2009,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574608
+     :ANKI_NOTE_ID: 1711244004876
      :END:
 ***** Front
       #+begin_example
@@ -2022,7 +2022,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574706
+     :ANKI_NOTE_ID: 1711244004928
      :END:
 ***** Front
       #+begin_example
@@ -2035,7 +2035,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574829
+     :ANKI_NOTE_ID: 1711244004977
      :END:
 ***** Front
       #+begin_example
@@ -2048,7 +2048,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574906
+     :ANKI_NOTE_ID: 1711244005029
      :END:
 ***** Front
       #+begin_example
@@ -2061,7 +2061,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340574983
+     :ANKI_NOTE_ID: 1711244005075
      :END:
 ***** Front
       #+begin_example
@@ -2074,7 +2074,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575030
+     :ANKI_NOTE_ID: 1711244005127
      :END:
 ***** Front
       #+begin_example
@@ -2087,7 +2087,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575130
+     :ANKI_NOTE_ID: 1711244005175
      :END:
 ***** Front
       #+begin_example
@@ -2100,7 +2100,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575259
+     :ANKI_NOTE_ID: 1711244005226
      :END:
 ***** Front
       #+begin_example
@@ -2113,7 +2113,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575330
+     :ANKI_NOTE_ID: 1711244005276
      :END:
 ***** Front
       #+begin_example
@@ -2127,7 +2127,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575408
+     :ANKI_NOTE_ID: 1711244005326
      :END:
 ***** Front
       Definition of unusual 2NT:
@@ -2138,7 +2138,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575483
+     :ANKI_NOTE_ID: 1711244005377
      :END:
 ***** Front
       #+begin_example
@@ -2150,7 +2150,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575554
+     :ANKI_NOTE_ID: 1711244005429
      :END:
 ***** Front
       #+begin_example
@@ -2162,7 +2162,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575659
+     :ANKI_NOTE_ID: 1711244005478
      :END:
 ***** Front
       #+begin_example
@@ -2174,7 +2174,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575783
+     :ANKI_NOTE_ID: 1711244005531
      :END:
 ***** Front
       #+begin_example
@@ -2187,7 +2187,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Cloze
-     :ANKI_NOTE_ID: 1643340575857
+     :ANKI_NOTE_ID: 1711244005576
      :END:
 ***** Text
       The most common splinter situation occurs when partner opens with a major and you make a {{c1::double}} jump with {{c1::4+}} card support.
@@ -2195,7 +2195,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340575933
+     :ANKI_NOTE_ID: 1711244005628
      :END:
 ***** Front
       #+begin_example
@@ -2207,7 +2207,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340576005
+     :ANKI_NOTE_ID: 1711244005703
      :END:
 ***** Front
       #+begin_example
@@ -2220,7 +2220,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Cloze
-     :ANKI_NOTE_ID: 1643340576057
+     :ANKI_NOTE_ID: 1711244005757
      :END:
 ***** Text
       The Jacoby 2NT convention is an artificial, game-forcing response to a {{c1::1♥}} or {{c1::1♠}} opening bid. The 2NT response shows {{c1::4+}} trump support with {{c1::13+}} points. The bid asks partner to describe her hand further so that slam prospects can be judged accordingly.
@@ -2229,7 +2229,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340576155
+     :ANKI_NOTE_ID: 1711244005803
      :END:
 ***** Front
       Length points are used for 5-card suits or longer.
@@ -2244,7 +2244,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340576283
+     :ANKI_NOTE_ID: 1711244005855
      :END:
 ***** Front
       Short suit points are a hand evaluation method when bidding suit contracts. It assigns points to each doubleton, singleton and void:
@@ -2263,7 +2263,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340576357
+     :ANKI_NOTE_ID: 1711244005901
      :END:
 ***** Front
       Jump bid
@@ -2273,7 +2273,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340576407
+     :ANKI_NOTE_ID: 1711244005951
      :END:
 ***** Front
       Reverse bid
@@ -2291,7 +2291,7 @@
      :PROPERTIES:
      :ANKI_DECK: Bridge
      :ANKI_NOTE_TYPE: Basic
-     :ANKI_NOTE_ID: 1643340576504
+     :ANKI_NOTE_ID: 1711244006002
      :END:
 ***** Front
       Reopening / Balance
